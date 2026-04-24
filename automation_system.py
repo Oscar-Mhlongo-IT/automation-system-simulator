@@ -1,5 +1,8 @@
-# Automation System Simulator
+# Author: Oscar
+# Project: Automation System Simulator
+# Description: Rule-based automation using Python
 
+# Automation System Simulator
 print("=== Automation System ===")
 
 # Get user input
