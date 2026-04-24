@@ -8,9 +8,10 @@ It simulates how a system can take input, process it, and automatically produce 
 ---
 
 ## ⚙️ Features
-- Input processing
-- Rule-based decision making
-- Automated output generation
+- Multi-input processing (temperature, humidity, time)
+- Rule-based intelligent decisions
+- Environment simulation
+- Automated system responses
 
 ---
 
